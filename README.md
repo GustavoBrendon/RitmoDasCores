@@ -20,7 +20,7 @@ O principal objetivo foi explorar os recursos gráficos e sonoros do Processing,
 3. Abra o arquivo `RitmoDasCores.pde` dentro do Processing.
 4. Execute o sketch clicando no botão ▶️ ou pressionando `Ctrl + R`.
 
-> Certifique-se de que a biblioteca `Sound` está instalada em **Sketch > Importar Biblioteca > Adicionar Biblioteca**.
+> Certifique-se de que a biblioteca `Minim` está instalada em **Sketch > Importar Biblioteca > Adicionar Biblioteca**.
 
 
 
