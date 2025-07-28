@@ -10,7 +10,7 @@ O principal objetivo foi explorar os recursos gráficos e sonoros do Processing,
 
 - [Processing](https://processing.org/)
 - Biblioteca `Minim` (importação de áudio)
-- Programação orientada a eventos
+- Programação orientada a objetos
 - Manipulação de formas, cores e tempo
 
 ## ⚙️ Como Executar
