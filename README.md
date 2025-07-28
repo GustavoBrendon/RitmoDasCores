@@ -9,7 +9,7 @@ O principal objetivo foi explorar os recursos gráficos e sonoros do Processing,
 ## 🚀 Tecnologias Utilizadas
 
 - [Processing](https://processing.org/)
-- Biblioteca `Sound` (importação de áudio)
+- Biblioteca `Minim` (importação de áudio)
 - Programação orientada a eventos
 - Manipulação de formas, cores e tempo
 
