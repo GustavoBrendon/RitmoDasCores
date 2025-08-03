@@ -63,10 +63,10 @@ void setup() {
 
   float tamanhoBotao = width / 6;
   float margem = width / 12;
-  botoes[0] = new BotaoColorido(width/2 - tamanhoBotao/2 - margem, height/2 - tamanhoBotao/2 - margem, tamanhoBotao, cores[3], sonsBotoes[3]);
-  botoes[1] = new BotaoColorido(width/2 + tamanhoBotao/2 + margem, height/2 - tamanhoBotao/2 - margem, tamanhoBotao, cores[1], sonsBotoes[1]);
-  botoes[2] = new BotaoColorido(width/2 - tamanhoBotao/2 - margem, height/2 + tamanhoBotao/2 + margem, tamanhoBotao, cores[2], sonsBotoes[2]);
-  botoes[3] = new BotaoColorido(width/2 + tamanhoBotao/2 + margem, height/2 + tamanhoBotao/2 + margem, tamanhoBotao, cores[0], sonsBotoes[0]); 
+  botoes[0] = new BotaoColorido(width/2 - tamanhoBotao/2 - margem, height/1.7 - tamanhoBotao/2 - margem, tamanhoBotao, cores[3], sonsBotoes[3]);
+  botoes[1] = new BotaoColorido(width/2.4 + tamanhoBotao/2 + margem, height/1.7 - tamanhoBotao/2 - margem, tamanhoBotao, cores[1], sonsBotoes[1]);
+  botoes[2] = new BotaoColorido(width/2 - tamanhoBotao/2 - margem, height/2.4 + tamanhoBotao/2 + margem, tamanhoBotao, cores[2], sonsBotoes[2]);
+  botoes[3] = new BotaoColorido(width/2.4 + tamanhoBotao/2 + margem, height/2.4 + tamanhoBotao/2 + margem, tamanhoBotao, cores[0], sonsBotoes[0]); 
 
   iniciarJogo();
 }
